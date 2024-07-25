@@ -1,0 +1,9 @@
+
+# node modules
+/node_modules
+
+#build folder
+/dist
+
+#vs code 
+.DS_Store
